@@ -3,7 +3,7 @@
 * UPDATE 21/05/2021 - added xray-nodomain script (see usage and installation below)
 
 
-![logo](https://telegra.ph/file/4e19dd26926234ca32b68.jpg)
+![logo]()
 
 
 
